@@ -1,0 +1,51 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+#mapid { 
+
+	height: 500px;
+width: 700px; }
+
+
+.map-container{
+	padding:10px;
+	margin-top:30px;
+}
+
+.panel{
+	width:100%;
+	height: 100%;
+}
+
+.ct{
+	font-family: 'Sigmar One', cursive;
+}
+
+.nf{
+
+}
+
+.inj{
+
+}
+.d{
+	width: 100%;
+	height: 100%;
+}
+
+#dashboard{
+	margin-top:30px;
+}
+
+.green{
+	border: 5px solid green;
+}
+
+.violet{
+	border: 5px solid violet;
+}
+
+.red{
+	border: 5px solid red;
+}
